@@ -8,9 +8,9 @@ Output would be: `'two pair'`
 
 ### Instructions for setup
 
-clone repo and run `yarn install`
+clone repo and run `yarn install` from root of project
 
-### Instructions for run
+### Instructions to run
 
 From the root of the project:   
 ```node index {POKER HAND}```
