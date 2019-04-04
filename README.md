@@ -3,8 +3,8 @@ Little command line tool built on nodejs to ascertain the best poker hand for a 
 
 For example, given a string input of:   
 `'AS, 10C, 10H, 3D, 3S'`   
-(the cards above are ace of spades, 10 of clubs, 10 of hearts, 3 of diamonds and 3 of spades)
-Output would be: 'two pair'
+(the cards above are ace of spades, 10 of clubs, 10 of hearts, 3 of diamonds and 3 of spades)  
+Output would be: `'two pair'`
 
 ### Instructions for setup
 
