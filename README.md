@@ -1,4 +1,4 @@
-# Best Poker Hand
+# Best Poker Hand miniature Tool
 Little command line tool built on nodejs to ascertain the best poker hand for a given string of cards
 
 For example, given a string input of:   
