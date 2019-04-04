@@ -1,0 +1,17 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "Choose the best poker hand",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marve Denga",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
