@@ -11,6 +11,9 @@
   "dependencies": {
     "commander": "^2.20.0"
   },
+  "bin": {
+    "pokerhand": "./index.js"
+  },
   "devDependencies": {
     "jest": "^24.7.1"
   }
